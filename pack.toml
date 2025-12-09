@@ -1,0 +1,13 @@
+name = "Sean Testing"
+author = "XeratulXE"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "85621ca91034995603f3450bb9751c24d3f2266fc0c6426a38e52953c76277c3"
+
+[versions]
+minecraft = "1.21.9"
+quilt = "0.27.1"

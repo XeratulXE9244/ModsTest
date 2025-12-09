@@ -1,0 +1,20 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/MouseTweaks-fabric-mc1.21.9-2.29.jar"
+hash = "96c59186e1678342432ff5515b3034a4fc723982f6aaf5e4554c09de0b7ef626"
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "48a71da0cd96100ccc239fa88fb6280094f0a0b1a555a2bdcc2e58dc2d7ebcc5"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "7fc67cabd5de89ebe9d7d995cdf160ceff0572c2bef784e846675976a428c9fa"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "279ea1bb4b776be9176fe34416e2132e37abfce4483def54177091cc0f2faade"
+metafile = true
